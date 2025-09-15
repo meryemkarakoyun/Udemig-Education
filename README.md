@@ -14,11 +14,11 @@ Udemig Educations is a modern and responsive education website that showcases di
 
 ## 🛠️ Technologies Used
 
-- HTML5 – structure  
-- CSS3 / SCSS – styling and responsive design  
-- JavaScript (Vanilla JS) – interactivity  
-- Font Awesome – icons  
-- Google Fonts – typography  
+- HTML5 –> structure  
+- CSS3 / SCSS –>styling and responsive design  
+- JavaScript –> interactivity  
+- Font Awesome –> icons  
+- Google Fonts –> typography  
 
 ## 🎥 Demo
 ![bandicam2025-09-1423-42-45-862-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fd295110-1990-4ac5-80c4-afa1286ab120)
